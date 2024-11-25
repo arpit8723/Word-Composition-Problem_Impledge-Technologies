@@ -13,6 +13,7 @@ Time taken to process the file
 
 # Sample Output
 For Input_01.txt:
+
 ![Output for Input_01.txt](./Output_01.png)
 
 For Input_02.txt:
